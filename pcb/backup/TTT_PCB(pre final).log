@@ -1,0 +1,23 @@
+# Writing all output to: D:\Anklon\Project\tictactoe\pcb\backup\TTT_PCB(pre final).log
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+set pad_wire_necking on
+bus diagonal
+fanout 5
